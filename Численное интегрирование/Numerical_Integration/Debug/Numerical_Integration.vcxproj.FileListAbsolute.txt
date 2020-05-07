@@ -1,0 +1,2 @@
+E:\.STUDY\ДИСТАНЦИОНКА\ВычМат\Numerical_Integration\Debug\Numerical_Integration.exe
+E:\.STUDY\ДИСТАНЦИОНКА\ВычМат\Numerical_Integration\Debug\Numerical_Integration.pdb

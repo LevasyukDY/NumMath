@@ -1,0 +1,10 @@
+﻿  Numerical_Integration.cpp
+E:\.STUDY\ДИСТАНЦИОНКА\ВычМат\Numerical_Integration\Numerical_Integration.cpp(11,11): warning C4244: return: преобразование "double" в "float", возможна потеря данных
+E:\.STUDY\ДИСТАНЦИОНКА\ВычМат\Numerical_Integration\Numerical_Integration.cpp(23,34): warning C4244: return: преобразование "double" в "float", возможна потеря данных
+E:\.STUDY\ДИСТАНЦИОНКА\ВычМат\Numerical_Integration\Numerical_Integration.cpp(42,8): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+  Создание кода
+  1 of 36 functions ( 2.8%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  Numerical_Integration.vcxproj -> E:\.STUDY\ДИСТАНЦИОНКА\ВычМат\Numerical_Integration\Release\Numerical_Integration.exe

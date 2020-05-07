@@ -1,0 +1,6 @@
+﻿  SearchMinValue.cpp
+E:\.STUDY\ВычМат\Поиск точки минимума\SearchMinValue\SearchMinValue.cpp(6,24): warning C4305: инициализация: усечение из "double" в "float"
+E:\.STUDY\ВычМат\Поиск точки минимума\SearchMinValue\SearchMinValue.cpp(10,12): warning C4244: return: преобразование "double" в "float", возможна потеря данных
+E:\.STUDY\ВычМат\Поиск точки минимума\SearchMinValue\SearchMinValue.cpp(86,12): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+E:\.STUDY\ВычМат\Поиск точки минимума\SearchMinValue\SearchMinValue.cpp(106,27): warning C4305: аргумент: усечение из "double" в "float"
+  SearchMinValue.vcxproj -> E:\.STUDY\ВычМат\Поиск точки минимума\Debug\SearchMinValue.exe
