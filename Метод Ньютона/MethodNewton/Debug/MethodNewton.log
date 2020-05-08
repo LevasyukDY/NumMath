@@ -1,0 +1,11 @@
+﻿  MethodNewton.cpp
+E:\.STUDY\ВычМат\Метод Ньютона\MethodNewton\MethodNewton.cpp(14,50): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+E:\.STUDY\ВычМат\Метод Ньютона\MethodNewton\MethodNewton.cpp(19,15): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+E:\.STUDY\ВычМат\Метод Ньютона\MethodNewton\MethodNewton.cpp(25,69): warning C4244: return: преобразование "double" в "float", возможна потеря данных
+E:\.STUDY\ВычМат\Метод Ньютона\MethodNewton\MethodNewton.cpp(50,23): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+E:\.STUDY\ВычМат\Метод Ньютона\MethodNewton\MethodNewton.cpp(51,23): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+E:\.STUDY\ВычМат\Метод Ньютона\MethodNewton\MethodNewton.cpp(61,19): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+E:\.STUDY\ВычМат\Метод Ньютона\MethodNewton\MethodNewton.cpp(62,19): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+E:\.STUDY\ВычМат\Метод Ньютона\MethodNewton\MethodNewton.cpp(69,24): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+E:\.STUDY\ВычМат\Метод Ньютона\MethodNewton\MethodNewton.cpp(70,24): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  MethodNewton.vcxproj -> E:\.STUDY\ВычМат\Метод Ньютона\Debug\MethodNewton.exe
